@@ -1,4 +1,4 @@
-extends PlatformerMovement
+extends TopdownMovement
 
 class_name Character
 

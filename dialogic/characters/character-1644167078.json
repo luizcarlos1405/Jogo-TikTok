@@ -1,0 +1,20 @@
+{
+	"color": "#ff2c74f1",
+	"description": "",
+	"display_name": "",
+	"display_name_bool": false,
+	"id": "character-1644167078.json",
+	"mirror_portraits": false,
+	"name": "Gato elitista",
+	"nickname": "",
+	"nickname_bool": false,
+	"offset_x": -100,
+	"offset_y": -30,
+	"portraits": [
+		{
+			"name": "Default",
+			"path": "res://assets/images/boss_cat.png"
+		}
+	],
+	"scale": 100
+}
